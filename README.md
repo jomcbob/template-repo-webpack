@@ -10,7 +10,7 @@ then
 npm run build
 ```
 
-for live reloading
+last but not least, for live reloading
 
 ```js
 npm start

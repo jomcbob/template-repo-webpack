@@ -1,10 +1,10 @@
-### use
-run 
+### To use
+Run 
 
 ```js
 npm install
 ```
-and 
+then
 
 ```js
 npm run build
